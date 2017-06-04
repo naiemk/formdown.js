@@ -10,8 +10,8 @@ A mark-down inspired language for developing web forms
 ```
 _ One underline creates one text box
 ```
+![sample](https://github.com/naiemk/formdown.js/raw/master/doc/sample1.png "Sample")
 
-[sample]: https://github.com/naiemk/formdown.js/raw/master/Screen%20Shot%202017-06-04%20at%2012.32.39%20AM.png "Sample"
 
 **Long text box**
 
@@ -20,11 +20,16 @@ _ One underline creates one text box
 __ Two underlines create one bigger text box
 ```
 
+![sample](https://github.com/naiemk/formdown.js/raw/master/doc/sample2.png "Sample")
+
+
 **Text area**
 
 ```
 ___ Three underlines create a text area
 ```
+
+![sample](https://github.com/naiemk/formdown.js/raw/master/doc/sample3.png "Sample")
 
 ### Checkbox and Radio buttons
 
@@ -33,6 +38,8 @@ ___ Three underlines create a text area
 ```
 X Start a line with X or O for a checkbox
 ```
+
+![sample](https://github.com/naiemk/formdown.js/raw/master/doc/sample4.png "Sample")
 
 **Radio buttons**
 
@@ -43,6 +50,8 @@ Radio button 2,
 Radio button 3
 ] Start a line with X or O then follow up with a list
 ```
+
+![sample](https://github.com/naiemk/formdown.js/raw/master/doc/sample5.png "Sample")
 
 
 **Grouped checkbox**
@@ -56,6 +65,8 @@ Check box 3
   Add an asteric to allow multiple section.
 ```
 
+![sample](https://github.com/naiemk/formdown.js/raw/master/doc/sample6.png "Sample")
+
 ### Dropdown
 
 
@@ -68,6 +79,8 @@ Item 3
   A list represents a dropdown
 ```
 
+![sample](https://github.com/naiemk/formdown.js/raw/master/doc/sample7.png "Sample")
+
 ### Multi-select list
 
 
@@ -79,6 +92,8 @@ Item 3
 ] Start a line a list and asterics. 
   Similar to dropdown with an extra asterics
 ```
+
+![sample](https://github.com/naiemk/formdown.js/raw/master/doc/sample8.png "Sample")
 
 ### Custom Controls
 
