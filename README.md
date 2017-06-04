@@ -24,4 +24,7 @@ mybox: _ A textbox named mybox (control.name)
 You can write form comments here after three dashes. They will show in the
 form.comments field.
 `
+
+let form = formdown().compile(formdownText);
+formdownRender().render(form)
 ```
