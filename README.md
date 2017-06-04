@@ -123,6 +123,18 @@ Every thing after the --- will be considered form comments.
 You can not have any more form controls after three dashes.
 ```
 
+## React.js
+
+[Here] is a react.js component for rendering formdown.
+
+## Themes
+
+Themes provide custom rendering logic for the form and every control.
+
+In addition to the default basic theme, there is a bootstrap4 theme in this project. 
+
+It is easy to write your own themes, just check [this example].
+
 # Summary
 
 Example:
