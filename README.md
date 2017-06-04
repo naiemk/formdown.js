@@ -3,7 +3,7 @@ A mark-down inspired language for developing web forms
 
 Example:
 
-```
+```javascript
 let formdownText = `
 This is an example <b>formdown</b> form. This line will end up in form.label
 
