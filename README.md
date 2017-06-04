@@ -11,6 +11,8 @@ A mark-down inspired language for developing web forms
 _ One underline creates one text box
 ```
 
+[sample]: https://github.com/naiemk/formdown.js/raw/master/Screen%20Shot%202017-06-04%20at%2012.32.39%20AM.png "Sample"
+
 **Long text box**
 
 
